@@ -6,6 +6,6 @@ Noita is an platform roguelite game developed by Nolla Games. The game takes pla
 
 
 <p align="center"> 
-<img src="https://github.com/gipi333/Simulation-game---Noita---element-simulation/blob/main/Noita.png" width="550" height="550" > 
+<img src="https://github.com/gipi333/Simulation-game---Noita---element-simulation/blob/main/Noita.png" width="350" height="350" > 
 </p>
 

@@ -23,9 +23,9 @@ In this project, 8 elements are simulated and are used thanks to keyboard keys:
 The following interactions are simulated:
 - Wood and fire : the fire spreads into the wood
 - Fire and smoke : fire generates smoke
-- Water and sand : water rise  when it is under sand and sand sink when it is above the water
+- Water and sand : water rises when it is under sand and sand sink when it is above the water
 - Salt and water : salt rises when it is under water
-- Acid and any element (except rock): acid
+- Acid and any element (except rock): acid erase any element under it
 
 
 

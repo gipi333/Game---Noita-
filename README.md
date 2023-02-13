@@ -19,12 +19,14 @@ In this project, 8 elements are simulated and are used thanks to keyboard keys:
 - Acid : y key
 - Salt : e key
 
+
 The following interactions are simulated:
 - Wood and fire : the fire spreads into the wood
 - Fire and smoke : fire generates smoke
 - Water and sand : water rise  when it is under sand and sand sink when it is above the water
 - Salt and water : salt rises when it is under water
 - Acid and any element (except rock): acid
+
 
 
 Special actions can be done :

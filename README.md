@@ -33,8 +33,8 @@ Special actions can be done :
 - Zoom in : h key 
 - Zoom out : g key
 - Erase a pixel : b key
-- Move the window to the right : rght arrow
-- Move the window to the left : lft arrow
+- Move the window to the right : right arrow
+- Move the window to the left : left arrow
 - Move up the window : up arrow
 - Move down the window : down arrow
 
